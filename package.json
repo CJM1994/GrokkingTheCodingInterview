@@ -1,0 +1,22 @@
+{
+  "name": "grokkingthecodinginterview",
+  "version": "1.0.0",
+  "description": "Repository for Data Structure and Algorithm Learning. <br/> Working through Grokking the Coding Interview, will also store some leetcode practice here as well. <br/>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CJM1994/GrokkingTheCodingInterview.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CJM1994/GrokkingTheCodingInterview/issues"
+  },
+  "homepage": "https://github.com/CJM1994/GrokkingTheCodingInterview#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
