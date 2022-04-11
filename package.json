@@ -4,7 +4,7 @@
   "description": "Repository for Data Structure and Algorithm Learning. <br/> Working through Grokking the Coding Interview, will also store some leetcode practice here as well. <br/>",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "/home/connor/lighthouse/GrokkingTheCodingInterview/node_modules/.bin/jest --coverage"
   },
   "repository": {
     "type": "git",
